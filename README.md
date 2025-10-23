@@ -48,7 +48,7 @@ Healthcare-Dashboard/
 ├── department-performance.png
 └── mortality-trends.png
 
-
+```
 ---
 
 ## 📸 Dashboard Preview
