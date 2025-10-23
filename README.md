@@ -37,6 +37,7 @@ It helps identify performance trends across departments and supports data-driven
 ---
 
 ## 📂 Project Structure
+```
 Healthcare-Dashboard/
 │
 ├── dataset.xlsx
