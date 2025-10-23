@@ -44,9 +44,9 @@ Healthcare-Dashboard/
 ├── Healthcare_Dashboard.pbix
 ├── README.md
 └── screenshots/
-├── dashboard-overview.png
-├── department-performance.png
-└── mortality-trends.png
+├── Hospital Overview.png
+├── Quality & Patient Care.png
+└── Financial & Opertaional Insights.png
 
 ```
 ---
